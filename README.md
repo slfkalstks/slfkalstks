@@ -8,6 +8,8 @@
   <img width="100" heigh="50" alt="DevSe" src="https://github.com/user-attachments/assets/d17227b7-c562-4971-8fbe-12de7fc149ce"/>
 </div align=center>
 
+<img src="/cansat_badge.svg" alt="cansat_badge.svg" align="center"/>
+
 <div align=center>
 
   <h4>Language</h4>
