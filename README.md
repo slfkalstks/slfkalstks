@@ -40,6 +40,6 @@
   <hr />
 
   <h3>Solved</h3>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Yongjoo" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdydwn6127" />
   
 </div>
