@@ -36,7 +36,7 @@
 
   <h3>Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=slfkalstks&show_icons=true&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfkalstks&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfkalstks&&ayout=compact&theme=dark" />
   
   <hr />
 
